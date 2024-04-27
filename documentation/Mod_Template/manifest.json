@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "Angie Mod",
+    "description": "Solo quiero un fondo de sans",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Ann"
     },
     "icons":
     {
@@ -17,7 +17,7 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
+                "music/waterfall.mp3",
                 "music/track_2.mp3",
                 "music/track_3.mp3",
                 "music/track_4.mp3"
@@ -164,14 +164,14 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "wallpaper/35a5f502af14aade0e77d46372fc9d42.mp4",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
-                    "first_frame": "wallpaper/first_frame.jpeg",
+                    "image": "wallpaper/35a5f502af14aade0e77d46372fc9d42.mp4",
+                    "first_frame": "wallpaper/35a5f502af14aade0e77d46372fc9d42.mp4",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
